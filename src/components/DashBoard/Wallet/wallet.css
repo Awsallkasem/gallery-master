@@ -1,0 +1,15 @@
+.wallet {
+    text-align: center;
+  }
+  .wallet h4 {
+    margin-bottom: 10px;
+  }
+  .wallet p {
+    font-size: 16px;
+    color: gray;
+  }
+  .wallet h3 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  

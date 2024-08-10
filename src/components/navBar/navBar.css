@@ -1,0 +1,26 @@
+
+
+nav .profile {
+  display: flex;
+  position: relative;
+  right: 10px;
+  bottom: 5px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+nav .profile img {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+nav .profile h2 {
+  font-family: IBM Plex Sans;
+  font-size: 17px;
+  font-style: italic;
+  font-weight: 600;
+  line-height: 20.09px;
+}

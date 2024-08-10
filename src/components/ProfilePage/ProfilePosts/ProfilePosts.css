@@ -1,0 +1,29 @@
+.profile-posts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  width: 100%;
+}
+
+.profile-posts .post {
+  width: calc(33.333% - 20px);
+  margin-bottom: 20px;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.profile-posts .post img {
+  width: 100%;
+  height: auto;
+  border-bottom: 1px solid #ddd;
+  object-fit: cover;
+}
+.profile-posts .post p {
+  font-size: 18px;
+  margin: 10px;
+  text-align: center;
+  color: #333;
+}

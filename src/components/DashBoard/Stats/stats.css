@@ -1,0 +1,17 @@
+.stats {
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+}
+.stat-item {
+  margin-bottom: 20px;
+}
+.stat-item h5 {
+  margin-bottom: 10px;
+}
+.text-danger {
+  color: red;
+}
+.text-success {
+  color: green;
+}

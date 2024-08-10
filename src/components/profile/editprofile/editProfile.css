@@ -1,0 +1,31 @@
+.edit-profile {
+  padding: 20px;
+}
+
+.edit-profile .form-group {
+  margin-bottom: 15px;
+}
+
+.edit-profile .form-control {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+}
+
+.edit-profile .profile-img-preview {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.edit-profile .btn-primary {
+  background-color: #ee913fda;
+  color: #fff;
+  border: none;
+}
+
+.edit-profile .btn-primary:hover {
+  background-color: #ff8e29;
+  color: #fff;
+}

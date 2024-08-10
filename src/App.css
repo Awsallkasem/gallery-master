@@ -1,0 +1,33 @@
+.app {
+  display: flex;
+}
+
+.main-content {
+  margin-left: 0px; /* Adjust this if your sidebar width changes */
+  width: calc(100% - 250px);
+
+}
+
+.container {
+  padding: 20px;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+label {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  color: #6f757e;
+  text-align: left;
+  margin: 5px;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
